@@ -63,13 +63,14 @@ I love solving real-world problems using **Python, SQL, Data Analytics, and Mach
 
 ### 🔹 AI-Based Anomaly Detection in Surveillance Videos  
 **Tech:** Python, Flask, OpenCV, NumPy, MobileNetV2, Bi-LSTM  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TechieParth2310&repo=video-classification-womens-safety&theme=radical)](https://github.com/TechieParth2310/video-classification-womens-safety)
+[![ReadMe Card](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=TechieParth2310&repo=video-classification-womens-safety&theme=radical)](https://github.com/TechieParth2310/video-classification-womens-safety)
 
 ---
 
 ### 🔹 IoT Data Analytics Dashboard  
 **Tech:** Flask, MySQL, Pandas, NumPy, Plotly  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TechieParth2310&repo=IOT_ANALYTICS&theme=radical)](https://github.com/TechieParth2310/IOT_ANALYTICS)
+[![ReadMe Card](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=TechieParth2310&repo=IOT_ANALYTICS&theme=radical)](https://github.com/TechieParth2310/IOT_ANALYTICS)
+
 
 ---
 
@@ -82,9 +83,10 @@ I love solving real-world problems using **Python, SQL, Data Analytics, and Mach
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechieParth2310&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechieParth2310&layout=compact&theme=tokyonight" height="160px"/>
-</p>
+  ![Parth's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=TechieParth2310&show_icons=true&theme=tokyonight)
+
+  ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=TechieParth2310&layout=compact&theme=tokyonight)
+
 
 ---
 
