@@ -63,20 +63,20 @@ I love solving real-world problems using **Python, SQL, Data Analytics, and Mach
 
 ### 🔹 AI-Based Anomaly Detection in Surveillance Videos  
 **Tech:** Python, Flask, OpenCV, NumPy, MobileNetV2, Bi-LSTM  
-[![ReadMe Card](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=TechieParth2310&repo=video-classification-womens-safety&theme=radical)](https://github.com/TechieParth2310/video-classification-womens-safety)
+[![ReadMe Card](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=TechieParth2310&repo=video-classification-womens-safety&theme=radical&cache_seconds=10)](https://github.com/TechieParth2310/video-classification-womens-safety)
 
 ---
 
 ### 🔹 IoT Data Analytics Dashboard  
 **Tech:** Flask, MySQL, Pandas, NumPy, Plotly  
-[![ReadMe Card](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=TechieParth2310&repo=IOT_ANALYTICS&theme=radical)](https://github.com/TechieParth2310/IOT_ANALYTICS)
+[![ReadMe Card](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=TechieParth2310&repo=IOT_ANALYTICS&theme=radical&cache_seconds=10)](https://github.com/TechieParth2310/IOT_ANALYTICS)
 
 
 ---
 
 ### 🔹 Hospital Management System  
 **Tech:** Flask, SQLite, HTML, CSS, JS  
-[![ReadMe Card](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=TechieParth2310&repo=MediFlow&theme=radical)](https://github.com/TechieParth2310/MediFlow)
+[![ReadMe Card](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=TechieParth2310&repo=MediFlow&theme=radical&cache_seconds=10)](https://github.com/TechieParth2310/MediFlow)
 
 ---
 
