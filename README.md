@@ -41,7 +41,6 @@ I love solving real-world problems using **Python, SQL, Data Analytics, and Mach
 ### 🔹 Machine Learning & Computer Vision  
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)
 
 ### 🔹 Backend & APIs  
