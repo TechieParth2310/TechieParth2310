@@ -75,7 +75,7 @@ I love solving real-world problems using **Python, SQL, Data Analytics, and Mach
 
 ### 🔹 Hospital Management System  
 **Tech:** Flask, SQLite, HTML, CSS, JS  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TechieParth2310&repo=MediFlow&theme=radical)](https://github.com/TechieParth2310/MediFlow)
+[![ReadMe Card](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=TechieParth2310&repo=MediFlow&theme=radical)](https://github.com/TechieParth2310/MediFlow)
 
 ---
 
