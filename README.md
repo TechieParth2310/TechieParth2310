@@ -1,145 +1,125 @@
-<h1 align="center">Hey, I'm Parth Kothawade 👋</h1>
+<div align="center">
 
-<h3 align="center">Founder @ ApplySync · Full-Stack & Mobile Engineer · AI-Native Builder</h3>
+<img width="100%" alt="Parth Kothawade — AI Product Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:08090B,55:2D86AD,100:C7924F&height=200&section=header&text=Parth%20Kothawade&fontColor=F4ECDC&fontSize=52&fontAlignY=38&desc=I%20build%20AI%20products%20that%20people%20actually%20use.&descSize=18&descAlignY=58" />
 
-<p align="center">
-  <a href="https://applysync.in" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 ApplySync-Live Product-6D28D9?style=for-the-badge" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TechieParth2310&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-</p>
+<a href="https://github.com/TechieParth2310">
+  <img alt="typing tagline" src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=24&pause=1100&color=C7924F&center=true&vCenter=true&width=760&height=46&lines=AI+Product+Engineer+%C2%B7+Chalisgaon%2C+Maharashtra;Most+AI+demos+impress.+Production+systems+survive.;Idea+%E2%86%92+production+in+days%2C+not+months." />
+</a>
 
----
+<br/>
 
-## 🧠 About Me
+<a href="https://parthkothawade.in"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-parthkothawade.in-C7924F?style=for-the-badge&logo=vercel&logoColor=08090B" /></a>
+<a href="https://www.linkedin.com/in/parthkothawade/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:parthkothawade2310@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/918329258378"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<br/>
+<img alt="profile views" src="https://komarev.com/ghpvc/?username=TechieParth2310&color=C7924F&style=flat&label=Profile+views" />
 
-I'm an ECE undergrad at **VIT Vellore (2022–2026)** who builds things that ship to real users.
-
-I founded **[ApplySync](https://applysync.in)** — an AI-driven job application automation SaaS — while in college. It has paying users, a production backend, and real people trusting it with their job search.
-
-I don't just use AI tools. I build *systems around AI* — designing for its failure modes, optimizing token usage, and making AI output production-reliable at scale.
-
-- 🏗️ **Founder & Software Engineer** @ [ApplySync](https://applysync.in) — AI job application automation SaaS with paying users
-- 🌐 **Product Developer** @ I AM STILL ALIVE, LLC — US-based multinational oncology platform
-- 📱 Shipped apps live on the [App Store](https://apps.apple.com/us/app/skingpt-ai/id6760752935) and [Play Store](https://play.google.com/store/apps/details?id=com.humanityfounder.facegpt)
-- 🤖 Built production ML systems with 93% accuracy on real-world video data
-- 📫 **parthkothawade2310@gmail.com** · 🌐 [portfolio-site-parth.vercel.app](https://portfolio-site-parth.vercel.app/)
+</div>
 
 ---
 
-## 🚀 What I've Shipped
+## 🧭 Currently
 
-| Product | Stack | Status |
-|---|---|---|
-| [⚡ ApplySync](https://applysync.in) | React, Node.js, Firebase, Razorpay | 🟢 Live · Paying Users |
-| [🧴 SkinGPT](https://apps.apple.com/us/app/skingpt-ai/id6760752935) | Flutter, Firebase, Dio | 🟢 Live · App Store |
-| [🔍 FaceGPT](https://play.google.com/store/apps/details?id=com.humanityfounder.facegpt) | Flutter, Firebase, REST APIs | 🟢 Live · Play Store |
-| [🏥 MediFlow](https://mediflow-dbn1.onrender.com/) | Flask, SQLite | 🟢 Deployed |
-| [🎥 AI Anomaly Detection](https://github.com/TechieParth2310/video-classification-womens-safety) | Python, OpenCV, MobileNetV2, Bi-LSTM | 93% Accuracy |
-| [💼 GigFlow](https://github.com/TechieParth2310/GIGFLOW) | React, Node.js, MongoDB, Socket.io | Open Source |
+- 🏥 Engineering **[I Am Still Alive](https://iamstillalive.com)** — a governed healthcare-AI platform for cancer patients
+- 🚀 Founding & building **[ApplySync](https://www.applysync.in/)** — AI that runs your job hunt end to end
+- 🌱 Going deeper on **agentic systems** & **production AI architecture**
+- 🧠 Reading *Designing Data-Intensive Applications*
 
----
+> *"The hardest, most human part isn't writing the code. It's deciding **what** to build — and being right."*
 
-## 💻 Tech Stack
-
-### 🔹 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0076?style=for-the-badge&logo=framer&logoColor=white)
-
-### 🔹 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🔹 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 🔹 Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔹 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+I'm an **AI-native builder**: I design the architecture, make the calls, and direct AI tools to write the volume — then integrate, harden and ship. My edge is judgment, system design and getting real products in front of real users. Fast.
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Products
 
-### ⚡ ApplySync — AI Job Application Automation SaaS
-**React · Node.js · Firebase · Razorpay · Chrome Extension (MV3)**
+> Shipped to app stores and production — not demos.
 
-An end-to-end AI platform that automates job applications for users. Built a "Master Profile" ranking engine that selects the right experience for each job, cutting AI token usage by 25%. Includes a Telegram parsing pipeline, AI resume builder, and a Chrome extension that auto-fills job forms.
-
-🔗 **[applysync.in](https://applysync.in)** · Live · Paying Users
-
----
-
-### 🎥 AI-Based Anomaly Detection in Surveillance Videos
-**Python · OpenCV · TensorFlow · MobileNetV2 · Bi-LSTM**
-
-Analyzed 630+ surveillance videos across 3+ risk categories. Built and benchmarked 3+ ML pipelines, achieving **93% accuracy** and ~25% reduction in false positives using MobileNetV2 + Bi-LSTM. Generated risk scores and confidence metrics for 100+ flagged incidents.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TechieParth2310&repo=video-classification-womens-safety&theme=tokyonight)](https://github.com/TechieParth2310/video-classification-womens-safety)
+| Product | What it is | Status |
+| :-- | :-- | :-- |
+| **[ApplySync](https://www.applysync.in/)** | AI watches 50+ Telegram job channels, tailors your résumé per ATS, auto-applies via Gmail & a Chrome (MV3) extension across 46+ sites | 🟢 **Live** · 109 users · 19 signups |
+| **[I Am Still Alive](https://iamstillalive.com)** | Django healthcare platform with **14+ governed AI features** over NVIDIA NIM — crisis detection, vision, moderation, a PHI guardrail & global kill switch | 🟢 **Production** |
+| **[FaceGPT](https://play.google.com/store/apps/details?id=com.humanityfounder.facegpt&hl=en_IN)** | AI reverse-image search — 20+ Flutter screens with a backend-driven credit & subscription engine | 🟢 **Google Play** |
+| **[SkinGPT](https://apps.apple.com/us/app/skingpt-ai/id6760752935)** | AI personal-style from skin-tone analysis — Flutter, Firebase, Dio | 🟢 **App Store** |
+| **[Conference & Events Platform](https://i-asa-events-module-ylys.vercel.app/)** | Next.js 15 · ~18k lines · 35 Prisma models · LiveKit rooms · Stripe ticketing · one swappable AI layer | 🟢 **Live demo** |
+| **Management Portal** | Internal ops OS — 20+ modules (HR, payroll, ATS, help desk), Microsoft Azure AD SSO | 🟢 **In daily use** |
 
 ---
 
-### 💼 GigFlow — Full-Stack Freelance Marketplace
-**React · Redux Toolkit · Node.js · MongoDB · Socket.io**
+## 🧰 The Stack
 
-A freelance marketplace with atomic hiring logic (MongoDB transactions), JWT + HttpOnly cookie auth, real-time bid notifications via Socket.io, and race condition prevention on concurrent bids.
+**Frontend**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TechieParth2310&repo=GIGFLOW&theme=tokyonight)](https://github.com/TechieParth2310/GIGFLOW)
+![React](https://img.shields.io/badge/React-08090B?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-08090B?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-08090B?style=flat-square&logo=flutter&logoColor=02569B)
+![TypeScript](https://img.shields.io/badge/TypeScript-08090B?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-08090B?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
----
+**Backend**
 
-## 📊 GitHub Stats
+![Node.js](https://img.shields.io/badge/Node.js-08090B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-08090B?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-08090B?style=flat-square&logo=django&logoColor=44B78B)
+![Firebase](https://img.shields.io/badge/Firebase-08090B?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-08090B?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Prisma](https://img.shields.io/badge/Prisma-08090B?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-08090B?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechieParth2310&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechieParth2310&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+**AI & LLMs**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechieParth2310&theme=tokyonight&hide_border=true" />
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-08090B?style=flat-square&logo=openai&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-08090B?style=flat-square&logo=nvidia&logoColor=76B900)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20Embeddings-08090B?style=flat-square&logo=vectorworks&logoColor=C7924F)
 
----
+**Infra & Automation**
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:parthkothawade2310@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://applysync.in">
-    <img src="https://img.shields.io/badge/ApplySync-6D28D9?style=for-the-badge&logo=lightning&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://github.com/TechieParth2310">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://portfolio-site-parth.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
+![Vercel](https://img.shields.io/badge/Vercel-08090B?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-08090B?style=flat-square&logo=railway&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-08090B?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20R2-08090B?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Chrome MV3](https://img.shields.io/badge/Chrome%20MV3-08090B?style=flat-square&logo=googlechrome&logoColor=E0B57C)
+![Telegram](https://img.shields.io/badge/Telegram%20Bots-08090B?style=flat-square&logo=telegram&logoColor=26A5E4)
+![Razorpay](https://img.shields.io/badge/Razorpay-08090B?style=flat-square&logo=razorpay&logoColor=0C5CFF)
 
 ---
 
-<h4 align="center">Building things people actually use. ⚡</h4>
+## 📊 GitHub
 
+<div align="center">
+
+<img height="170" alt="Parth's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TechieParth2310&show_icons=true&count_private=true&hide_border=true&bg_color=08090B&title_color=E0B57C&text_color=EAE5D9&icon_color=C7924F" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechieParth2310&layout=compact&hide_border=true&bg_color=08090B&title_color=E0B57C&text_color=EAE5D9&icon_color=C7924F" />
+
+<br/>
+
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=TechieParth2310&hide_border=true&background=08090B&ring=C7924F&fire=E0B57C&currStreakLabel=E0B57C&sideLabels=EAE5D9&dates=8A8E96&currStreakNum=EAE5D9&sideNums=EAE5D9&stroke=8A8E96" />
+
+</div>
+
+---
+
+## 🧠 How I think
+
+```text
+problem  →  is AI even the right tool?  →  architecture (boundaries, fallbacks, guardrails)
+        →  trade-offs  →  ship in days  →  watch real usage  →  keep what earns its place
+```
+
+Tools change every six months. **Judgment compounds.** I'm honest about what I'm still growing — CS fundamentals, distribution, and business English — because the goal is to build things people rely on, not to look finished.
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something that actually matters.
+
+[![Portfolio](https://img.shields.io/badge/parthkothawade.in-C7924F?style=for-the-badge&logo=vercel&logoColor=08090B)](https://parthkothawade.in)
+[![Email](https://img.shields.io/badge/parthkothawade2310@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthkothawade2310@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/+91%2083292%2058378-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918329258378)
+[![LinkedIn](https://img.shields.io/badge/parthkothawade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthkothawade/)
+
+<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:C7924F,45:2D86AD,100:08090B&height=120&section=footer&text=Built%20with%20obsession.%20Shipped%20with%20impact.&fontColor=F4ECDC&fontSize=16&fontAlignY=75" />
+
+</div>
