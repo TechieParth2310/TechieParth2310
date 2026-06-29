@@ -89,12 +89,16 @@ I'm an **AI-native builder**: I design the architecture, make the calls, and dir
 
 <div align="center">
 
-<img height="170" alt="Parth's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TechieParth2310&show_icons=true&count_private=true&hide_border=true&bg_color=08090B&title_color=E0B57C&text_color=EAE5D9&icon_color=C7924F" />
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechieParth2310&layout=compact&hide_border=true&bg_color=08090B&title_color=E0B57C&text_color=EAE5D9&icon_color=C7924F" />
+<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=TechieParth2310&hide_border=true&background=08090B&ring=C7924F&fire=E0B57C&currStreakLabel=E0B57C&sideLabels=EAE5D9&dates=8A8E96&currStreakNum=EAE5D9&sideNums=EAE5D9&stroke=8A8E96" />
+
+<br/><br/>
+
+<img width="92%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TechieParth2310&bg_color=08090B&color=E0B57C&line=C7924F&point=F4ECDC&area=true&area_color=C7924F&hide_border=true&custom_title=Contribution%20Graph" />
 
 <br/>
 
-<img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=TechieParth2310&hide_border=true&background=08090B&ring=C7924F&fire=E0B57C&currStreakLabel=E0B57C&sideLabels=EAE5D9&dates=8A8E96&currStreakNum=EAE5D9&sideNums=EAE5D9&stroke=8A8E96" />
+![Followers](https://img.shields.io/github/followers/TechieParth2310?style=for-the-badge&logo=github&logoColor=E0B57C&label=Followers&labelColor=08090B&color=C7924F)
+![Stars](https://img.shields.io/github/stars/TechieParth2310?style=for-the-badge&logo=github&logoColor=E0B57C&label=Stars&labelColor=08090B&color=C7924F)
 
 </div>
 
